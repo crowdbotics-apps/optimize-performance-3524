@@ -1,0 +1,3 @@
+rootProject.name = 'optimize_performance_3524'
+
+include ':app'

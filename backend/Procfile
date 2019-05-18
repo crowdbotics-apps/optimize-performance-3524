@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT optimize_performance_3524.wsgi:application
